@@ -6,6 +6,6 @@ TODO
 2.实体抽取和文本分类联合模型
 
 推荐资料  
-1.https://jishuin.proginn.com/p/763bfbd58c6c
-2.https://zhuanlan.zhihu.com/p/326302618
-3.https://github.com/loujie0822/DeepIE
+1.https://jishuin.proginn.com/p/763bfbd58c6c  
+2.https://zhuanlan.zhihu.com/p/326302618  
+3.https://github.com/loujie0822/DeepIE  
